@@ -241,3 +241,8 @@ input[type=submit] {
   border: 0 none;
 }
 
+
+.contactInfo{
+  font-size: 15px;
+  padding-top: 10px;
+}
